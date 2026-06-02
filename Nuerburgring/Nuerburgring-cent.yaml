@@ -1,0 +1,9 @@
+free_thresh: 0.196
+image: Nuerburgring-cent.png
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -19
+- -16
+- 0
+resolution: 0.1

@@ -1,0 +1,9 @@
+free_thresh: 0.196
+image: MexicoCity-cent.png
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -9
+- -22
+- 0
+resolution: 0.1

@@ -1,0 +1,9 @@
+free_thresh: 0.196
+image: Spielberg.png
+negate: 0
+occupied_thresh: 0.65
+origin:
+- -22.0
+- -9.0
+- 0
+resolution: 0.10000000149011612
