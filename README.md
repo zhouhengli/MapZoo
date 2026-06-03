@@ -21,6 +21,8 @@ The following overview visualizes all included tracks with their occupancy maps,
 - **Open and extensible structure**: adding new maps only requires following the same folder/file convention.
 - **Race Stack compatible**: The dataset is designed to align seamlessly with the map format required by [ForzaETH Race Stack](https://github.com/ForzaETH/race_stack), making it easy to plug tracks into existing autonomous racing pipelines.
 
+Last but not least, a ⭐ would be greatly appreciated and would serve as strong encouragement for my continued open-source research efforts : )
+
 ---
 
 ## Repository Structure
