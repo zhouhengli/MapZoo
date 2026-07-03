@@ -14,7 +14,7 @@ The following overview visualizes all included tracks with their occupancy maps,
 
 ## Highlights
 
-- **32 tracks**: a diverse set of benchmark-ready tracks, ranging from F1-style circuits to indoor and warehouse-like maps.
+- **32 tracks**: a diverse set of benchmark-ready tracks.
 - **Occupancy-grid map format**: each map provides `.png` and `.yaml` files compatible with common robotics map pipelines.
 - **Centerline and racing line**: each track includes sampled centerline and optimized racing-line CSV files.
 - **Simulation-ready metadata**: speed-scaling sectors and overtaking-sector flags are provided per map.
