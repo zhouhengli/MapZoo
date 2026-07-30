@@ -449,6 +449,13 @@ Please contact [Zhouheng Li](https://zhouhengli.github.io/) if you have any ques
 If you use this dataset in academic work, please cite this repository.
 
 ```
-TBD
+@misc{li2026sgtpsamplingbasedgametheoreticplanning,
+      title={SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing}, 
+      author={Zhouheng Li and Fangguo Zhao and Mattia Piccinini and Baha Zarrouki and Yuan Gao and Zitong Shan and Johannes Betz and Chen Lv and Lei Xie},
+      year={2026},
+      eprint={2607.25388},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2607.25388}, 
+}
 ```
 
