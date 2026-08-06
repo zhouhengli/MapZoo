@@ -1,0 +1,15 @@
+* text=auto
+
+*.csv  text eol=lf
+*.yaml text eol=lf
+*.yml  text eol=lf
+*.json text eol=lf
+
+*.png binary
+
+*.csv linguist-language=CSV linguist-detectable
+
+*.yaml linguist-language=YAML linguist-detectable
+*.yml  linguist-language=YAML linguist-detectable
+
+*.json linguist-language=JSON linguist-detectable
